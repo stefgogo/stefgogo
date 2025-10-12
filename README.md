@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! This is (in my opinion) a boring profile.
 
 <!--
 **stefgogo/stefgogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
